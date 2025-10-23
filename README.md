@@ -1,4 +1,4 @@
-# Coin-Detection
+
 # Coin-Detection
 # 🪙 Coin Detection using OpenCV
 
@@ -32,4 +32,4 @@ It uses techniques like:
    ```bash
    git clone https://github.com/<your-username>/Coin-Detection.git
    cd Coin-Detection
-## Code:
+
